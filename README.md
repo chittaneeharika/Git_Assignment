@@ -1,0 +1,1 @@
+“This is a sample GitLab repository for the lab exercise.”
